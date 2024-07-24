@@ -1,4 +1,8 @@
-# Bootcamp Satander 2024 - Backend com Java
+# <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"> Bootcamp Satander 2024 - Backend com Java
+
+### Desenvolvido na linguagem Java por:
+
+- [Sarah Tambalo](https://github.com/sarahtambalo)
 
 ## Desafios de projeto
 
