@@ -1,4 +1,4 @@
-# <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"> Bootcamp Satander 2024 - Backend com Java
+# <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"> DESAFIO: Design Patterns com Java - Dos Clássicos (GoF) ao Spring Framework
 
 ### Desenvolvido na linguagem Java por:
 
